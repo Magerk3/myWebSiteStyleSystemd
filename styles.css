@@ -1,0 +1,201 @@
+html {
+    background-color: #cce77e;
+    font-family: "Source Code Pro", monospace;
+  }
+  h1 {
+    text-align: center;
+    font-weight: bold;
+    color: #001011;
+  }
+  
+  .hex {
+    text-transform: lowercase;
+  }
+  .c-panel {
+    border: 10px solid #fffffc;
+    background-color: #e6f3bd;
+    padding: 10px;
+    color: #1b404b;
+    font-size: 20px;
+    margin: 10px auto;
+    border-radius: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+  }
+  .c-panel p {
+    text-align: center;
+    position: relative;
+    
+  }
+  .color {
+      font-size: 20px;
+      border-radius: 15px;
+      text-align: center;
+      margin: 5px;
+      height: 200px;
+      
+  }
+  .ad-color {
+    font-size: 20px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 5px;
+    height: 200px;
+  }
+  .text {
+    text-align: center;
+    margin: 60px 30px;
+    
+  }
+  
+  #baby-blue {
+    color: #001011;
+    background-color: #6ccff6;
+    border: 5px solid #fffffc;
+  
+    font-family: "Josefin Sans", sans-serif;
+  }
+  #rich-black {
+    color: #757780;
+    background-color: #001011;
+    border: 5px solid  #6ccff6;
+  
+    font-family: "Ubuntu", sans-serif;
+  }
+  #sonik-silver {
+    color: #6ccff6;
+    background-color: #757780;
+    border: 5px solid #98ce00;
+  
+    font-family: "Pacifico", cursive;
+  }
+  #baby-powder {
+    color:  #98ce00;;
+    background-color: #fffffc;
+    border: 5px solid #001011;
+  
+    font-family: "Lato", sans-serif;
+  }
+  #yellow-green {
+    color: #fffffc;
+    background-color: #98ce00;
+    border: 5px solid #757780;
+    font-family: "Source Code Pro", monospace;
+  }
+  
+  .grid {
+      border: 10px solid #6ccff6;
+    background-color: #fffffc;
+    padding: 10px;
+    color: #1b404b;
+    font-size: 20px;
+    margin: 10px auto;
+    border-radius: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+   
+    }
+  
+  #teal-blue {
+    font-family: "Pacifico", cursive;
+    background-color: #367084;
+    border: 5px solid #1b404b;
+    color: #1b404b;
+  }
+  #midnight-green-eagle {
+    font-family: "Source Code Pro", monospace;
+    background-color: #1b404b;
+    border: 5px solid #757780;
+    color: #757780;
+  
+    
+  }
+  #charcoal {
+    font-family: "Ubuntu", sans-serif;
+    background-color: #3b4449;
+    border: 5px solid #001011;
+    color: #001011;
+  }
+  #pale-spring-bud {
+    font-family: "Lato", sans-serif;
+    background-color: #e6f3bd;
+    border: 5px solid #98ce00;
+    color: #98ce00;
+  }
+  #yellow-green-crayola {
+    font-family: "Josefin Sans", sans-serif;
+    background-color: #cce77e;
+    border: 5px solid #367084;
+  
+    color: #367084;
+  }
+  
+  .f-panel {
+    border: 10px solid #e6f3bd;
+    border-radius: 30px;
+    background-color: #fffffc;
+    padding: 10px;
+    color: #fffffc;
+    font-size: 20px;
+    margin: 10px auto;
+  }
+  .f-panel p {
+    text-align: center;
+    position: relative;
+  }
+  #lato {
+    font-family: "Lato", sans-serif;
+  
+    color: #367084;
+  }
+  #pacifico {
+    font-family: "Pacifico", cursive;
+    color: #3b4449;
+  }
+  #ubuntu {
+    font-family: "Ubuntu", sans-serif;
+    color: #98ce00;
+  }
+  #josefine-sans {
+    font-family: "Josefin Sans", sans-serif;
+    color: #001011;
+  }
+  #sourse-code-pro {
+    font-family: "Source Code Pro", monospace;
+    color: #1b404b;
+  }
+  #void {
+    font-size: 80px;
+  }
+  #dots3 {
+      transform: translateY(-50%);
+      color: #e6f3bd;
+    }
+  #dots2 {
+    transform: translateY(-50%);
+    color: #6ccff6;
+  }
+  #dots {
+      transform: translateY(-50%);
+      color: #fffffc;
+    }
+  .font {
+    border: 7px dotted;
+    border-top: transparent;
+    border-bottom: transparent;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .name {
+    text-transform: uppercase;
+  }
+  #some-colors {
+      color: #1b404b;
+  }
+  #add-colors {
+      color:#757780;
+  }
+  #some-fonts {
+      color: #367084;
+  }
